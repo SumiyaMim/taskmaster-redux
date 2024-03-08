@@ -5,7 +5,7 @@ This is Task Management Application.
 - User authentication.
 - Add and delete tasks.
 - Task mark as pending, in progress, complete, archive.
-- Categorize tasks by priority level(low/ medium/ high).
+- Categorize tasks by priority level (low/ medium/ high).
 
 ## Technology:
 - React.js
