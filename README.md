@@ -3,7 +3,7 @@ This is Task Management Application.
 
 ## Features:
 - User authentication.
-- Add, edit, and delete tasks.
+- Add and delete tasks.
 - Task mark as pending, in progress, complete, archive.
 - Categorize tasks by priority level(low/ medium/ high).
 
